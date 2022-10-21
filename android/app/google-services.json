@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "994523863925",
+    "project_id": "iot-dashboard-v1",
+    "storage_bucket": "iot-dashboard-v1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994523863925:android:07f9fdbb9d3e84875ed13c",
+        "android_client_info": {
+          "package_name": "com.example.project_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994523863925-diqd65m7v1mfeu34nhrpaqc1q22c66oo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbKxZ9EOTPNH11ZEk0dI5YMCBJs3lRNr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994523863925-diqd65m7v1mfeu34nhrpaqc1q22c66oo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
